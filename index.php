@@ -39,7 +39,7 @@
     <div class="follow">
         <a href="#" class="fab fa-instagram"></a>
         <a href="#" class="fab fa-linkedin"></a>
-        <a href="#" class="fab fa-github"></a>
+        <a href="https://github.com/Prachisuthar02" class="fab fa-github"></a>
     </div>
 
   </header>
