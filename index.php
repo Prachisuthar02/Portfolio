@@ -38,7 +38,7 @@
 
     <div class="follow">
         <a href="#" class="fab fa-instagram"></a>
-        <a href="https://linkedin.com/in/prachisuthar02" class="fab fa-linkedin"></a>
+        <a href="https://www.linkedin.com/in/prachisuthar02?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " class="fab fa-linkedin"></a>
         <a href="https://github.com/Prachisuthar02" class="fab fa-github"></a>
     </div>
 
@@ -300,33 +300,51 @@
 
     <div class="box-container">
        
+   
     <div class="box" data-aos="zoom-in">
+        <a href="http://localhost/projects/website/home.php">
         <img src="media/flowerweb.png" alt="">
+</a>
         <h3>Web Development</h3>
     </div>
 
+
     <div class="box" data-aos="zoom-in">
+        <a href="http://127.0.0.1:5500/TravelWeb.html">
         <img src="media/portfolio imgsc2.png" alt="">
+</a>
         <h3>Web Development</h3>
     </div>
 
+
     <div class="box" data-aos="zoom-in">
+        <a href="http://127.0.0.1:5500/promovie.html">
         <img src="media/portfolio imgsc3.png" alt="">
+</a>
         <h3>Web Development</h3>
     </div>
+ 
 
     <div class="box" data-aos="zoom-in">
+        <a href="http://127.0.0.1:5500/To_Do.html">
         <img src="media/portfolio imgsc4.png" alt="">
+</a>
         <h3>Web Development</h3>
     </div>
 
     <div class="box" data-aos="zoom-in">
+  <a href="https://quotefluent.wordpress.com/">
         <img src="media/portfolio imgsc5.png" alt="">
+</a>
         <h3>Web Development</h3>
+      
+
     </div>
 
     <div class="box" data-aos="zoom-in">
+        <a href="http://127.0.0.1:5500/game.html">
         <img src="media/portfolio imgsc6.png" alt="">
+</a>
         <h3>Web Development</h3>
     </div>
 
